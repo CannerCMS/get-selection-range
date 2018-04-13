@@ -1,4 +1,6 @@
 # get-selection-range [![NPM version][npm-image]][npm-url]  [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Canner/get-selection-range.svg)](https://greenkeeper.io/)
 > Get cursor's selection range.
 
 ## Installation
